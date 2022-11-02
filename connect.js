@@ -158,7 +158,7 @@ async function make_demand(){
                     clearInterval(terval)
                 }
                 // element.innerHTML = `123xNFT #${number + random}`
-                element.innerHTML = `Skull #${Math.floor(mint_amount) - 5 * random +random - mem}`
+                element.innerHTML = `Aptos Minotaurs #${Math.floor(mint_amount) - 5 * random +random - mem}`
                 mem++
             }
 
